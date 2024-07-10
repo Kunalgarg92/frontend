@@ -3,6 +3,7 @@ import c2 from "../images/c2.jpg";
 import c3 from "../images/c3.webp";
 import c4 from "../images/c9.jpg";
 import c5 from "../images/c7.jpg";
+
 const courses = [
   {
     id: 1,
