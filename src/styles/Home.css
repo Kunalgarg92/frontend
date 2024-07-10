@@ -1,0 +1,28 @@
+.home-container {
+    display: flex;
+  }
+.slideImage{
+    height: 80vh;
+   
+}
+
+#carouselExampleCaptions{
+    margin-top: -0.4rem;
+    
+}
+
+.left{
+    width:70vw;
+}
+.right{
+    width:30vw;
+}
+.right-sidebar{
+    height:20vh;
+    width:30vw;
+}
+
+.sidebar-image {
+    height: 20vh;
+    width: 100%;
+  }

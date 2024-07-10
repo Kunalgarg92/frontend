@@ -1,0 +1,58 @@
+form{
+    width:40rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.signUpImage{
+    display: block;
+    height: 13rem;
+    width: 13rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:5rem;
+    padding-top: 2rem;
+}
+
+label,#username,#password,#email,#confirmPassword{
+    display: block; 
+}
+
+#username,#password,#email,#confirmPassword{
+    margin-bottom: 0.5rem;
+    width: 20rem;
+    height: 1.8rem;
+    border: 1px solid lightgray;
+    padding-left: 0.7rem;
+}
+
+label{
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#remember{
+    margin-top: 1rem;
+    font-size: smaller;
+    margin-bottom: 1rem;
+}
+
+
+#signUp{
+    width: 100%;
+    color: white;
+    background-color: rgb(219, 144, 5);
+    height: 2rem;
+    border: 0;
+    font-size: medium;
+}
+
+#signUp:hover{
+    background-color: rgb(208, 161, 74);
+}
+
+.signUpDiv{
+    background-image: url(../images/home1.jpg);
+    background-size: cover;
+    margin-top: -5.5rem;
+    height: 35rem;
+}

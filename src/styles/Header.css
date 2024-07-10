@@ -1,0 +1,37 @@
+.navBarUpper {
+  color: white;
+  background-color: orange;
+  padding-left: 47%;
+  padding-top: 0%;
+  margin-top: -1rem;
+  width: 100%;
+}
+.Name {
+  font-size: 40px;
+  font-weight: 900;
+  color: white;
+  text-decoration: none;
+  
+}
+
+.navBarLower{
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  background-color: rgba(197, 129, 3, 0.437);
+  font-size: 25px;
+  width: 100%;
+}
+#link-text {
+  color: white;
+  text-decoration: none;
+}
+img{
+  height: 3rem;
+  width: 4rem;
+}
+.navbar{
+display:flex;
+flex-direction: column;
+padding: 0%;
+}
